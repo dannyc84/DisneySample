@@ -1,0 +1,66 @@
+#intestazione {
+    font-size: 14px;
+    font-family: edwardian script bold;
+    text-align: center;
+    color: #00008B;
+}
+
+#navigazione {
+  font-size: 14px;
+  text-align: center;
+}
+
+#navigazione a {
+  color: #00008B;
+  text-decoration: none;
+  margin: 15px;
+  font-size: 18px;
+}
+
+#navigazione a:hover {
+  color: #000;
+  text-decoration: none;
+  font-weight: bold;
+  background-color: orchid;
+  font-size: 18px;
+}
+
+.imgSinistra {
+	width : 20%;
+    float: left;
+}
+
+.imgDestra {
+	width : 20%; 
+    float: right;
+}
+
+.imgCentro {
+	width: 20%;
+}
+
+.centro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
+.piedipagina {
+  position: relative;
+  width: 100%;
+  background-color: lightsteelblue;
+  text-align: center;
+}
+
+h1 {
+	font-size: 48px;
+}
+
+body {
+  font-family: Arial,Helvetica,sans-serif;
+  font-size: 12px;
+  text-align: justify;
+  background-color: lavender;
+}
+
+
