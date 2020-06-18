@@ -23,7 +23,9 @@ This project uses the following code of conduct: [CODE_OF_CONDUCT](CODE_OF_CONDU
 
 ## License
 
-This project uses the following license: [MIT](LICENSE.md).## Disclaimer
+This project uses the following license: [MIT](LICENSE.md).
+
+## Disclaimer
 
 * This repository is not intended to be a definitive solution.
 * This repository not implemented a lot of 3rd party packages, we are try to avoid the over engineering when building on best practices.
